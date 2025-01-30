@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: MAHESH GADAGUDAM
-Template URL: https://bootstrapmade.com/mahesh-gadagudam-portfolio/
-Author: MAHESH
+Template Name: MyResume
+Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
